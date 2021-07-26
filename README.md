@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregdavies91
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me https://calendly.com/gregdavies
 
