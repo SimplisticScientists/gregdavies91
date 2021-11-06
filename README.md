@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregdavies91
-- 👀 I’m interested in HTML, CSS and JavaScript
-- 🌱 I’m currently learning JavaScript, Vue.js and Python
-- 💞️ I’m looking to collaborate!
+- 👀 I’m interested in Typescript, Ionic, Vue.js, Node.js and Capacitor
+- 🌱 I’m currently learning Python and Javascript
+- 💞️ I’m looking to find my first position as a junior software developer!
 - 📫 How to reach me https://calendly.com/gregdavies
 
 <!---
