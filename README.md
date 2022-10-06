@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregdavies91
 - 👀 I’m interested in Typescript, Ionic, Vue.js, Node.js and Capacitor
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning C#, Unity and Javascript
 - 💞️ I’m looking to find my first position as a junior software developer!
 - 📫 How to reach me https://calendly.com/gregdavies
 
