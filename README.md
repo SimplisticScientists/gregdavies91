@@ -1,4 +1,4 @@
 - 👋 Hi, we're @SimplisticScientists
 - 👀 We're interested in making music
-- 🌱 I’m currently learning C#, Godot, Unity, Typescript, Ionic, Vue.js, Node.js and Capacitor
-- 💞️ I’m looking to experiment and have fun!
+- 🌱 We're currently learning C#, Godot, Unity, Typescript, Ionic, Vue.js, Node.js and Capacitor
+- 💞️ We're looking to experiment and have fun!
